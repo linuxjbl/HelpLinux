@@ -128,3 +128,6 @@ git reflog
 ================
 
 
+$ git config --global user.email linuxjbl@gmail.com
+$ git config --global user.name linuxjbl
+$ git config --global core.editor vim
